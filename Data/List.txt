@@ -1,0 +1,9 @@
+List of Man, v.1.0
+
+Prof: Ivanov Ivan               ; Age: 34;  Pubs: 1
+Prof: Popov Viktor              ; Age: 56;  Pubs: 5
+Prof: Domovoy Petr              ; Age: 78;  Pubs: 64
+Stud: Kovalev Viktor            ; Age: 19;  Course: 1
+Stud: Stefan Ivan               ; Age: 23;  Course: 3
+Stud: Nikitin Kim               ; Age: 24;  Course: 4
+Stud: Drozdov Alex              ; Age: 26;  Course: 1

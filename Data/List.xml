@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Prof>
+    <Name>Ivanov Ivan</Name>
+    <Age>34</Age>
+    <Pubs>1</Pubs>
+  </Prof>
+  <Prof>
+    <Name>Popov Viktor</Name>
+    <Age>56</Age>
+    <Pubs>5</Pubs>
+  </Prof>
+  <Prof>
+    <Name>Domovoy Petr</Name>
+    <Age>78</Age>
+    <Pubs>64</Pubs>
+  </Prof>
+  <Stud>
+    <Name>Kovalev Viktor</Name>
+    <Age>19</Age>
+    <Course>1</Course>
+  </Stud>
+  <Stud>
+    <Name>Stefan Ivan</Name>
+    <Age>23</Age>
+    <Course>3</Course>
+  </Stud>
+  <Stud>
+    <Name>Nikitin Kim</Name>
+    <Age>24</Age>
+    <Course>4</Course>
+  </Stud>
+  <Stud>
+    <Name>Drozdov Alex</Name>
+    <Age>26</Age>
+    <Course>1</Course>
+  </Stud>
+</List>
